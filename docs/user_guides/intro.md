@@ -92,7 +92,7 @@ Swap space of at least half of the available RAM is recommended. For instance, w
 
 > If you have a Windows 8 sticker on your machine you might need to make a separate EFI partition with a FAT32 filesystem.
 
-For more detailed information regarding the Disk Setup of a Linux system you can check the [DiskSpace](./disk_space) page.
+For more detailed information regarding the Disk Setup of a Linux system you can check the [DiskSpace](disk_space.md) page.
 
 ## 8. Create Your Login Details
 
