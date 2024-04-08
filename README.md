@@ -1,6 +1,6 @@
 # LingmoOS Documentation Site
 
-This is the repo for the [LingmoOS Documentation Site](https://lingmoos.github.io/docs/).
+This is the repo for the [LingmoOS Documentation Site](https://lingmoos.github.io/lingmo-documentation/).
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
