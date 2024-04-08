@@ -44,7 +44,7 @@ See paragraphs below.
 
 -   Type: SWAP
 
--   Description: see [SwapFaq](/community/SwapFaq).
+-   Description: see [SwapFaq](/).
 
 -   Size: size of your RAM.
 
@@ -54,7 +54,7 @@ Some computers can\'t see boot files (/boot) if located far (\>100GB)
 from the start of the disk. This is why it is sometimes necessary to
 create a separate /boot partition at the start of the disk. Remark:
 don\'t use the same /boot for several Linux distributions, as it may mix
-up their kernels. See [this tutorial](/community/BootPartition) if you
+up their kernels. See [this tutorial](/) if you
 want to create a separate /boot after installing LingmoOS.
 
 | **Name**                          | **Size**                          |
@@ -122,7 +122,7 @@ root partition (which would block your system).
 
 -   Type: Linux type (generally EXT4)
 
--   Description: see [HomeFolder](/community/HomeFolder). When your hard
+-   Description: see [HomeFolder](/). When your hard
     disk is big enough, a separate `/home` allows to separate your
     settings (and also your data if you don\'t use a data partition, see
     previous paragraph) from the rest of the system. A separate `/home`
