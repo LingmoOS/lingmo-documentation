@@ -79,6 +79,7 @@ const config = {
             label: 'User Guides',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/build_status', label: 'Status', position: 'left'},
           {
             href: 'https://github.com/LingmoOS/lingmo-documentation',
             label: 'GitHub',
