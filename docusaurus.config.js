@@ -80,6 +80,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/build_status', label: 'Status', position: 'left'},
+          {to: 'http://lingmo-bug-tracker.unaux.com/', label: 'Report Bugs', position: 'right'},
           {
             href: 'https://github.com/LingmoOS/lingmo-documentation',
             label: 'GitHub',
@@ -119,6 +120,10 @@ const config = {
           {
             title: 'More',
             items: [
+              {
+                label: 'Report Bugs',
+                to: 'http://lingmo-bug-tracker.unaux.com/',
+              },
               {
                 label: 'Blog',
                 to: '/blog',
