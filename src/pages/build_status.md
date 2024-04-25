@@ -4,5 +4,7 @@ title: LingmoOS Build Status
 
 # LingmoOS Build Status
 
-Live CD Build Status: [![Build](https://github.com/LingmoOS/lingmo-system-build/actions/workflows/build.yml/badge.svg)](https://github.com/LingmoOS/lingmo-system-build/actions/workflows/build.yml)
-
+| Item | Status |
+|---|---|
+| Live CD Build | [![Build](https://github.com/LingmoOS/lingmo-system-build/actions/workflows/build.yml/badge.svg)](https://github.com/LingmoOS/lingmo-system-build/actions/workflows/build.yml) |
+| Rolling Repo Build | [![GitHub C](https://github.com/LingmoOS/lingmo-build/actions/workflows/ci.yml/badge.svg)](https://github.com/LingmoOS/lingmo-build/actions/workflows/ci.yml) |
